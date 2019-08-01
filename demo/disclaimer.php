@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  <?php
+    $subTitle = "Disclaimer";
+  ?>
   <?php include("inc/head.php"); ?>
 
   <body>

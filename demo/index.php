@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  <?php
+    $subTitle = "Home";
+  ?>
   <?php include("inc/head.php"); ?>
 
   <body>
